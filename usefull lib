@@ -1,1 +1,5 @@
+# ====================================== #
 require(highcharter) # library graphique interactive
+# Online help https://jkunst.com/highcharter/
+# blog : https://www.tmbish.me/lab/highcharter-cookbook/
+# 
